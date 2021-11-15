@@ -27,9 +27,9 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Quantitative Ecology and Resource Management
+      institution: University of Washington
+      year: 2020
     - course: Master of Science in Quantitative Ecology and Resource Management
       institution: University of Washington
       year: 2020
