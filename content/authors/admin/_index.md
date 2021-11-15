@@ -5,23 +5,23 @@ avatar_filename: anne-polyakov.jpg
 bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
   cycling models. "
 interests:
-  - Mycorrhizalfungiandohaowfeiwaheofwai
+  - Mycorrhizal fungi
+  - carbon and nitrogen cycling
+  - genetics
+  - stable isotope analysis
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AnnePolyakov
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/anne-polyakov-7aba5512
 organizations:
   - name: University of Washington
     url: https://www.stanford.edu/
