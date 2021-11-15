@@ -40,6 +40,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Anne Polyakov is a PhD student within the Quantitative Ecology and Resource Management Program at the University of Washington. Her research focuses on modeling the role of mycorrhizal fungi in the carbon and nitrogen cycles, mycorrhizal fungal networks, and using stable isotope analysis to model these phenomena. Her primary adviser is Dr. Andrew Berdahl in the School of Aquatic and Fisheries Sciences, and her other committee members include faculty from both the School of Aquatic and Fisheries Sciences and the School of Environmental and Forest Sciences. 
+Welcome! My name is Anne Polyakov and I am a PhD student within the Quantitative Ecology and Resource Management Program at the University of Washington. My research focuses on modeling the role of mycorrhizal fungi in the carbon and nitrogen cycles, using a combination of field work, genetic sequencing, stable isotope analysis, and statistical modeling. My primary adviser is Dr. Andrew Berdahl in the School of Aquatic and Fisheries Sciences, and my other committee members include faculty from both the School of Aquatic and Fisheries Sciences and the School of Environmental and Forest Sciences, as well as Michigan State University and the University of New Hampshire.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
