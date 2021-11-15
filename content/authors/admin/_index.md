@@ -1,12 +1,10 @@
 ---
 title: Nelson Bighetti
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
+  cycling models. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mycorrhizalfungiandohaowfeiwaheofwai
 social:
   - icon: envelope
     icon_pack: fas
