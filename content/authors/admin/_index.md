@@ -1,6 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Anne Polyakov
+role: "PhD student "
+avatar_filename: anne-polyakov.jpg
 bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
   cycling models. "
 interests:
