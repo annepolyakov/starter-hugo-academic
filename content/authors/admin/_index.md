@@ -1,7 +1,7 @@
 ---
 title: Anne Polyakov
 role: "PhD student "
-avatar_filename: anne-polyakov.jpg
+avatar_filename: annepolyakov.jpg
 bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
   cycling models. "
 interests:
@@ -35,7 +35,7 @@ education:
       year: 2020
     - course: Bachelor of Arts
       institution: Harvard University
-      year: 2010
+      year: 2012
 email: ""
 superuser: true
 highlight_name: true
