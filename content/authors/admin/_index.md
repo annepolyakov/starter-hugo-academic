@@ -22,19 +22,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
+  - name: University of Washington
     url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Science in Quantitative Ecology and Resource Management
+      institution: University of Washington
+      year: 2020
+    - course: Bachelor of Arts
+      institution: Harvard University
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
