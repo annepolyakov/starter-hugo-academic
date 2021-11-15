@@ -29,10 +29,10 @@ education:
   courses:
     - course: PhD in Quantitative Ecology and Resource Management
       institution: University of Washington
-      year: 2020
+      year: 2022
     - course: Master of Science in Quantitative Ecology and Resource Management
       institution: University of Washington
-      year: 2020
+      year: 2021
     - course: Bachelor of Arts
       institution: Harvard University
       year: 2012
