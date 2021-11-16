@@ -33,6 +33,9 @@ education:
     - course: Master of Science in Quantitative Ecology and Resource Management
       institution: University of Washington
       year: 2021
+    - course: Master of Music
+      institution: San Francisco Conservatory of Music
+      year: 2014
     - course: Bachelor of Arts
       institution: Harvard University
       year: 2012
