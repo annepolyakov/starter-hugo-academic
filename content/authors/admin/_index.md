@@ -5,10 +5,11 @@ avatar_filename: avatar.jpg
 bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
   cycling models. "
 interests:
+  - Modeling
   - Mycology
   - Fungal genetics
-  - carbon and nitrogen cycling
-  - isotope biogeochemistry
+  - Carbon and nitrogen cycling
+  - Isotope biogeochemistry
 social:
   - icon: envelope
     icon_pack: fas
