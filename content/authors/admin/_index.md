@@ -8,6 +8,7 @@ interests:
   - Modeling
   - Mycology
   - Fungal genetics
+  - Salmon-derived nutrients
   - Carbon and nitrogen cycling
   - Isotope biogeochemistry
 social:
