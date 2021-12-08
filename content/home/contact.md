@@ -15,9 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
-polyakov@uw.edu
-631-972-5328
+
   
 design:
   columns: '2'
