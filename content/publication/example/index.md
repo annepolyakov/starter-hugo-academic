@@ -1,32 +1,29 @@
 ---
-abstract: My name is Anne Polyakov!
-slides: example
+abstract: ""
+slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: Ecology and Evolution
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Anne Y. Polyakov
+  - Theodore J. Weller
+  - William D. Tietje
+author_notes: []
+publication: Agriculture, Ecosystems, and Environment
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Remnant trees increase bat activity and facilitate the use of vineyards
+  by edge-space bats
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-11-15T18:22:43.767Z
