@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anne-polyakov-7aba5512
+  - display:
+      header: false
+    link: polyakov@uw.edu
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: University of Washington
     url: https://www.stanford.edu/
