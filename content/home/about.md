@@ -8,7 +8,7 @@ active: true
 author: admin
 design:
   background:
-    image: deepforest.jpg
+    image: deepforestfaded.jpg
     image_darken: 0.5
     image_size: cover
     image_position: center
