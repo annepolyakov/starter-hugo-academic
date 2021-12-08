@@ -29,8 +29,10 @@ social:
     icon_pack: fas
     icon: envelope
 organizations:
-  - name: University of Washington
-    url: https://www.stanford.edu/
+  - name: Quantitative Ecology and Resource Management
+    url: https://quantitative.uw.edu/
+  - name: School of Aquatic and Fishery Sciences
+    url: https://fish.uw.edu/
 education:
   courses:
     - course: PhD in Quantitative Ecology and Resource Management
