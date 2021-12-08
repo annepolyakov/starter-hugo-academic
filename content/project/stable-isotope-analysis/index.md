@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2021-12-08T19:49:26.170Z
+date: 2021-12-08T19:52:38.745Z
 external_link: ""
 url_slides: ""
 title: Stable Isotope Analysis
