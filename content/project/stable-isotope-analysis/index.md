@@ -15,4 +15,4 @@ image:
   filename: sockeye.jpg
 url_code: ""
 ---
-I will be using stable isotope analysis to trace the flow of salmon-derived nutrients through riparian systems.
+I am using stable isotope analysis to trace the flow of salmon-derived nutrients through riparian systems.
