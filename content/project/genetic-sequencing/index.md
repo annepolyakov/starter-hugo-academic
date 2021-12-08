@@ -6,6 +6,6 @@ featured: false
 image:
   filename: icon.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 I am sequencing soil samples for fungal communities to understand how salmon-derived nutrients structure fungal functional groups.
