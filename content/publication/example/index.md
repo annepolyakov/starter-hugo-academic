@@ -19,7 +19,7 @@ url_video: ""
 title: Remnant trees increase bat activity and facilitate the use of vineyards
   by edge-space bats
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
