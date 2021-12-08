@@ -12,7 +12,7 @@ links: []
 image:
   caption: Photo by someone
   focal_point: Smart
-  filename: sockeye.jpg
+  filename: nitrogencycle.png
 url_code: ""
 ---
 I am using stable isotope analysis to trace the flow of salmon-derived nutrients through riparian systems.
