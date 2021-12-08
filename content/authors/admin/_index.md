@@ -29,6 +29,8 @@ organizations:
     url: https://quantitative.uw.edu/
   - name: School of Aquatic and Fishery Sciences
     url: https://fish.uw.edu/
+  - name: School of Environmental and Forest Sciences
+    url: https://sefs.uw.edu/
 education:
   courses:
     - course: PhD in Quantitative Ecology and Resource Management
