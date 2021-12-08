@@ -18,7 +18,7 @@ content:
     exclude_featured: true
     
     design:
-    view: 2
+    view: 3
   background:
     image: amanitafaded.jpg
     image_darken: 0.5
