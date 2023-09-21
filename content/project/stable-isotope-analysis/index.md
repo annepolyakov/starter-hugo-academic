@@ -6,7 +6,7 @@ url_video: ""
 date: 2021-12-08T19:52:38.745Z
 external_link: ""
 url_slides: ""
-title: Stable Isotope Analysis
+title: Mapping nitrogen flow through riparian systems
 tags: []
 links: []
 image:
@@ -15,4 +15,4 @@ image:
   filename: nitrogencycle.png
 url_code: ""
 ---
-I am using stable isotope analysis to trace the flow of salmon-derived nutrients through riparian systems.
+I am using stable isotope biogeochemsitry to trace the flow of salmon-derived nitrogen through riparian systems.
