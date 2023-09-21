@@ -1,6 +1,6 @@
 ---
 title: Anne Polyakov
-role: "PhD student "
+role: "PhD Candidate"
 avatar_filename: avatar.jpg
 bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
   cycling models. "
