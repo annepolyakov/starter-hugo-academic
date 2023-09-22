@@ -14,4 +14,4 @@ image:
   filename: nitrogencycle.png
 url_code: ""
 ---
-I am using stable isotope biogeochemsitry to trace the flow of salmon-derived nitrogen through riparian systems.
+I am using stable isotope biogeochemistry to trace the flow of salmon-derived nitrogen through riparian systems.
