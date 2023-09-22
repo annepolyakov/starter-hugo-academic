@@ -7,7 +7,7 @@ image:
   filename: mushroombywater.jpg
   placement: 1
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 ---
 Fungal communities have rarely been examined in riparian systems, and especially fungal communities associated with salmon streams. I am examining the effect of salmon carcasses on fungal community composition and the presence of salmon-carcass associated fungi in riparian systems with salmon populations. 
 
