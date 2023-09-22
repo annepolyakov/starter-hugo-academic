@@ -1,5 +1,5 @@
 ---
-title: Fungal communities within riparian systems
+title: Fungal communities of riparian systems
 draft: false
 featured: false
 image:
