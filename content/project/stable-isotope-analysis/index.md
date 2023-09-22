@@ -10,7 +10,6 @@ title: Mapping nitrogen flow through riparian systems
 tags: []
 links: []
 image:
-  caption: Photo by someone
   focal_point: Smart
   filename: nitrogencycle.png
 url_code: ""
