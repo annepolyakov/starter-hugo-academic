@@ -3,7 +3,6 @@ abstract: "See my publications at https://scholar.google.com/scholar?hl=en&as_sd
 slides: ""
 url_pdf: ""
 publication_types:""
-authors:""
 author_notes: []
 publication: ""
 summary: ""
