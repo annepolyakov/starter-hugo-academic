@@ -4,7 +4,7 @@ date: 2021-12-08T19:06:24.598Z
 draft: false
 featured: false
 image:
-  filename: icon.png
+  filename: mushroom by water.jpg
   focal_point: Smart
   preview_only: false
 ---
