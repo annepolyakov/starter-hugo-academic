@@ -3,7 +3,7 @@ widget: about
 widget_id: Fish
 headless: true
 weight: 20
-title: Fish, Forests, and Fungi
+title: Biography
 active: true
 author: admin
 design:
