@@ -1,23 +1,19 @@
 ---
-abstract: ""
+abstract: "See my publications at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=anne+polyakov&oq="
 slides: ""
 url_pdf: ""
 publication_types:
   - "2"
-authors:
-  - Anne Y. Polyakov
-  - Theodore J. Weller
-  - William D. Tietje
+authors:""
 author_notes: []
-publication: Agriculture, Ecosystems, and Environment
+publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Remnant trees increase bat activity and facilitate the use of vineyards
-  by edge-space bats
+title: ""
 doi: ""
 featured: false
 tags: []
