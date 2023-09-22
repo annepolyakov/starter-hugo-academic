@@ -17,4 +17,4 @@ url_code: ""
 ---
 I am using stable isotope biogeochemistry to trace the flow of salmon-derived nitrogen through riparian systems.
 
-![screen reader text](fishandfungi.jpg)
+![screen reader text](fishandfungi.jpg "Flow of nutrients into fungal-plant system")
