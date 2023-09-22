@@ -13,3 +13,5 @@ design:
 polyakov@uw.edu
 
 631-972-5328
+
+![screen reader text](annemushroom.jpg) 
