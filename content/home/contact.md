@@ -16,4 +16,4 @@ polyakov@uw.edu
 
 <! -- ![screen reader text](annemushroom.jpg) -->
 
-{{< figure src="annemushroom.jpg" caption="A caption" numbered="true" resize_options="250x250" >}}
+{{< figure src="annemushroom.jpg" caption="A caption" numbered="true" resize_options="100x100" >}}
