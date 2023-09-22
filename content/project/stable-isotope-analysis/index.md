@@ -12,6 +12,7 @@ links: []
 image:
   focal_point: Smart
   filename: nitrogencycle.png
+  preview_only: true
 url_code: ""
 ---
 I am using stable isotope biogeochemistry to trace the flow of salmon-derived nitrogen through riparian systems.
