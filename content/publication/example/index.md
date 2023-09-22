@@ -2,8 +2,7 @@
 abstract: "See my publications at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=anne+polyakov&oq="
 slides: ""
 url_pdf: ""
-publication_types:
-  - "2"
+publication_types:""
 authors:""
 author_notes: []
 publication: ""
