@@ -2,13 +2,11 @@
 title: Anne Polyakov
 role: "PhD Candidate"
 avatar_filename: avatar.jpg
-bio: "My research interests include mycorrhizal fungi, and carbon and nitrogen
-  cycling models. "
+bio: ""
 interests:
   - Modeling
   - Mycology
   - Fungal genetics
-  - Salmon-derived nutrients
   - Carbon and nitrogen cycling
   - Isotope biogeochemistry
 social:
