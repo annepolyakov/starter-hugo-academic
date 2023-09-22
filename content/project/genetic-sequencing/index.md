@@ -4,7 +4,8 @@ date: 2021-12-08T19:06:24.598Z
 draft: false
 featured: false
 image:
-  filename: mushroom by water.jpg
+  filename: mushroombywater.jpg
+  placement: 1
   focal_point: Smart
   preview_only: false
 ---
