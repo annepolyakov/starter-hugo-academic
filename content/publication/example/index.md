@@ -1,5 +1,5 @@
 ---
-abstract: "See my publications at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=anne+polyakov&oq="
+abstract: "See my publications at https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao"
 slides: ""
 url_pdf: ""
 author_notes: []
