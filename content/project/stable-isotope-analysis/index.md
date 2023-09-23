@@ -6,7 +6,7 @@ url_video: ""
 date: 2021-12-08T19:52:38.745Z
 external_link: ""
 url_slides: ""
-title: Tracing the flow of salmon nutrients through riparian systems
+title: Tracing salmon-derived nutrients through riparian systems
 tags: []
 links: []
 image:
