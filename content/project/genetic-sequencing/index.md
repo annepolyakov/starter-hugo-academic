@@ -1,5 +1,5 @@
 ---
-title: Fungal communities of riparian systems
+title: Mapping fungal communities in salmon forests
 draft: false
 featured: false
 image:
