@@ -6,7 +6,7 @@ url_video: ""
 date: 2021-12-08T19:52:38.745Z
 external_link: ""
 url_slides: ""
-title: Mapping nitrogen flow through riparian systems
+title: Mapping the flow of salmon nutrients through riparian systems
 tags: []
 links: []
 image:
