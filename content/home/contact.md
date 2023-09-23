@@ -14,4 +14,4 @@ polyakov@uw.edu
 
 631-972-5328
 
-{{< figure src="annemushroom.jpg" caption="A caption" numbered="true" resize_options="100x100" >}}
+{{< figure src="annemushroom.jpg" caption="Me and a chaterelle" numbered="true" resize_options="100x100" >}}
