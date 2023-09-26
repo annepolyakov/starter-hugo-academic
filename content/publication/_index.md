@@ -14,3 +14,5 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
