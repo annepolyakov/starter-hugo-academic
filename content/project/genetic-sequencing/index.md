@@ -15,3 +15,5 @@ Fungal communities have rarely been examined in riparian systems, and especially
 ![screen reader text](hansenmushroom.JPG "Mushroom sample along a transect at Hansen Creek")
 
 ![screen reader text](salmon.JPG "Sockeye salmon at Hansen Creek") 
+
+{{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
