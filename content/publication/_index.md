@@ -9,10 +9,14 @@ cms_exclude: true
 #   4 = Citation
 view: 1
 
+summary: See my publications at https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+See my publications at https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
 
 {{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
