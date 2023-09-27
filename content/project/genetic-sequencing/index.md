@@ -16,4 +16,4 @@ Fungal communities have rarely been examined in riparian systems, and especially
 
 ![screen reader text](salmon.JPG "Sockeye salmon at Hansen Creek") 
 
-{{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/TheSalmonCycle_Polyakov.pdf" "newtab" %}}Download my CV{{% /staticref %}}
