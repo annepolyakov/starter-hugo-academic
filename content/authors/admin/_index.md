@@ -6,9 +6,8 @@ bio: ""
 interests:
   - Modeling
   - Mycology
-  - Fungal genetics
-  - Carbon and nitrogen cycling
-  - Isotope biogeochemistry
+  - Biodiversity conservation
+  - Ecosystem biogeochemistry
 social:
   - icon: envelope
     icon_pack: fas
