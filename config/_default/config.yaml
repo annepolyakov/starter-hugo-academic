@@ -84,7 +84,7 @@ related:
 
 [[menu.main]]
    name = "Resume"
-   url = "/uploads/Polyakov,Anne_CV.pdf.pdf"
+   url = "/uploads/Polyakov,Anne_CV.pdf"
    weight = 2.5
 
 [[menu.main]]
