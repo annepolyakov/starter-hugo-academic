@@ -10,8 +10,8 @@ content:
 design:
   columns: "2"
 ---
-E-mail address: polyakov@uw.edu
+email: polyakov@uw.edu
 
-Phone number: 631-972-5328
+phone: 631-972-5328
 
 {{< figure src="annemushroom.jpg" caption="Me and a chanterelle" numbered="true" resize_options="100x100" >}}
