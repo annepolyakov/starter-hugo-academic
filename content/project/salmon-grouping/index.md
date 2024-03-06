@@ -1,5 +1,5 @@
 ---
-title: Group size affects predation risk and foraging success in Pacific salmon
+title: Group size affects predation risk and foraging success in Pacific salmon in the ocean
 draft: false
 featured: false
 image:
