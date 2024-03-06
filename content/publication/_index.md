@@ -17,6 +17,5 @@ header:
   image: ""
 ---
 
-See my publications at https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
+See my list of publications here https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
 
-{{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
