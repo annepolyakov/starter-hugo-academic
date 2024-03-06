@@ -1,5 +1,5 @@
 ---
-title: Group size affects predation risk and foraging success in Pacific salmon in the ocean
+title: Safety in numbers keeps Pacific salmon safe at sea
 draft: false
 featured: false
 image:
