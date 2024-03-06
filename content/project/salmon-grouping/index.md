@@ -15,5 +15,6 @@ Grouping is ubiquitous across animal taxa and environments. Safety in numbers is
 
 ![screen reader text](salmonfig1.JPG "The probability of predator injury decreased as a function of group size (number of fish caught in purse seine nets) for all Pacific salmon species considered (sockeye, chum, pink, and coho). This safety in numbers was evident for both species-specific group size (left column) and total group size (right column)")
 
+Read the full article here: https://www.science.org/doi/full/10.1126/sciadv.abm7548
 
 
