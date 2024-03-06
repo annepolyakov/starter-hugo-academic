@@ -4,7 +4,8 @@ role: "PhD Candidate"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Modeling
+  - Statistical modeling
+  - Forest ecosystem science
   - Mycology
   - Biodiversity conservation
   - Ecosystem biogeochemistry
@@ -35,7 +36,7 @@ education:
   courses:
     - course: PhD in Quantitative Ecology and Resource Management
       institution: University of Washington
-      year: Anticipated December 2023
+      year: Anticipated May 2024
     - course: Master of Science in Quantitative Ecology and Resource Management
       institution: University of Washington
       year: 2021
