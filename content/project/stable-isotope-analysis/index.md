@@ -11,7 +11,7 @@ tags: []
 links: []
 image:
   focal_point: Smart
-  filename: salmonstream.jpg
+  filename: sockeyemushroom.JPG
   preview_only: true
 url_code: ""
 ---
