@@ -9,8 +9,6 @@ cms_exclude: true
 #   4 = Citation
 view: 1
 
-summary: See my list of publications here: https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
