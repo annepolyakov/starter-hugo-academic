@@ -15,5 +15,5 @@ header:
   image: ""
 ---
 
-See my list of publications here: https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
+See my full list of publications here: https://scholar.google.com/citations?user=2RHw5JYAAAAJ&hl=en&oi=ao
 
