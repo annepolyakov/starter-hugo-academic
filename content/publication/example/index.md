@@ -4,7 +4,7 @@ slides: ""
 url_pdf: ""
 author_notes: []
 publication: ""
-summary: "HELLO"
+summary: HELLO
 url_dataset: ""
 url_project: ""
 publication_short: ""
