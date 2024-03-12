@@ -1,5 +1,5 @@
 ---
-title: Safety in numbers keeps Pacific salmon safe at sea
+title: Quantifying collective behavior of Pacific salmon safe at sea
 draft: false
 featured: false
 image:
