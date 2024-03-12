@@ -1,5 +1,5 @@
 ---
-title: Fungi, Forests, and Fish
+title: Talks
 
 event: Wowchemy Conference
 event_url: https://example.org
