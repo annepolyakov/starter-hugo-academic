@@ -26,6 +26,3 @@ url_poster: ""
 url_code: ""
 ---  
 
-second test
-
-{{% staticref "uploads/salmon_russian_article.pdf" "newtab" %}}Download my CV{{% /staticref %}}
