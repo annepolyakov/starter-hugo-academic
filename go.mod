@@ -1,8 +1,10 @@
-module github.com/wowchemy/starter-hugo-academic
+############################
+## HUGO MODULES
+## Install or uninstall themes and plugins here.
+## Docs: https://gohugo.io/hugo-modules/
+############################
 
-go 1.15
-
-require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
-)
+imports:
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
